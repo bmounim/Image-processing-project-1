@@ -65,7 +65,3 @@ Data Science & Artificial Intelligence
 
 ## Installation and Usage
 Ensure that Python is installed along with the required libraries. The notebook can be run cell by cell to observe each manipulation's outcome.
-
----
-
-This README provides a structured overview of the notebook, highlighting the objectives, key concepts, and operations performed in each manipulation. It's designed to give a quick understanding of the notebook's content for both technical and non-technical audiences.
